@@ -17,7 +17,7 @@ logger.setLevel(logging.INFO)
 LR = 6e-4
 BATCH_SIZE = 32
 NUMBER_OF_NODES = 256
-EPOCHS = 1
+EPOCHS = 3
 IMG_SIZE = 224
 
 
