@@ -1,6 +1,10 @@
 seldon-core==1.14.0
 pillow
+<<<<<<< Updated upstream
 tensorflow==2.9.1
 tensorflow-gpu
 matplotlib
+=======
+tensorflow-macos
+>>>>>>> Stashed changes
 streamlit==1.11.0
