@@ -1,3 +1,5 @@
 env/
 .vscode
 dogImages/
+models/
+__pycache__
