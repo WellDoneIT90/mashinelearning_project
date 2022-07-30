@@ -1,1 +1,4 @@
-flask
+seldon-core==1.14.0
+pillow
+tensorflow==2.3.0
+streamlit==1.11.0
